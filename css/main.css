@@ -9,14 +9,14 @@ html {
 body {
     max-width: 1200px;
     margin: 0 auto;
-    background-color: #a0d8f3;
+    background-color: #EDEDED;
     font-family: 'Lato', sans-serif;
 }
 
 /* Navigation */
 
 nav {
-    background-color: darkgray;
+    background-color: #243349;
     padding: 4px;
     font-family: 'Roboto', sans-serif;
 }
@@ -50,7 +50,7 @@ nav ul li {
 .dropdown > ul {
     display: none;
     position: absolute;
-    background-color: darkgray;
+    background-color: #243349;
     box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
     padding: 12px 16px;
     z-index: 1;
